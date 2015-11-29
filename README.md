@@ -1,3 +1,3 @@
 # git-hooks-samples-repo
 
-sample testing git repo 
+sample testing git repos
