@@ -1,12 +1,12 @@
 # git-hooks-samples-repo
 
-##What are hooks?
+# What are hooks?
 
 Hooks are scripts that help you enforce policies on your repository by triggering scripts at certain events that enforce policies such as 'The commit message must be longer than 20 characters' or 'The test suite must be run before a commit and if it fails, reject the commit'.
 
 Hooks are available in every VCS I have used before. They are also available in Visual Sourcesafe which is not a VCS.
 
-##Git Hooks
+# Git Hooks
 
 In Git the hook scripts can be implemented using any language but Shell, Ruby, Perl and Python scripts are the most common as far as I know.
 
@@ -40,10 +40,10 @@ You can do a lot of things with them:
   * Unix
   * macOS
   
-##Contributing
+# Contributing
 We love contributions, be they bug reports, feature ideas, or pull requests. See our guidelines for contributing to best ensure your thoughts, ideas, or code get merged.
 
-##License
+# License
 This project is released under the MIT license.
 
 
