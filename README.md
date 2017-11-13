@@ -22,7 +22,7 @@ For a quick reference you can open your favorite shell and type:
 
 git hooks --help
 
-## Why do you need git hooks in your project?
+# Why do you need git hooks in your project?
 Hooks are little scripts you can place in `$GIT_DIR/hooks` directory to trigger action at certain points.
 
 They are very powerful and helpful.
@@ -34,9 +34,8 @@ You can do a lot of things with them:
   * Spell check the commit message or check it format.
   * and etc.
 
-**Note.** When you use `git-hooks`, you should not modify `$GIT_DIR/hooks` directory manually because `git-hooks` will do it for you.
 
-## Supported platforms
+# Supported platforms
   * Unix
   * macOS
   
